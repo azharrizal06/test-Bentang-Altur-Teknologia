@@ -50,14 +50,14 @@ Application	Mengatur logika bisnis dan state management (notifier & provider).
 Presentation	Menangani UI, widget, dan interaksi pengguna.
 
 Struktur folder:
-
+```
 lib/
 ├── application/       # State management (notifier, provider)
 ├── domain/            # Model & entitas inti
 ├── infrastructure/    # Repository & service API
 ├── presentation/      # UI & halaman tampilan
 └── main.dart          # Entry point aplikasi
-
+```
 🧰 Package yang Digunakan
 Teknologi yang Digunakan
 
@@ -73,8 +73,6 @@ flutter_hooks (opsional)	Integrasi state yang lebih reaktif
 1️⃣ Clone Repository
 
 Unduh atau clone repository:
-
-git clone https://github.com/username/product_catalog_app.git](https://github.com/azharrizal06/test-Bentang-Altur-Teknologia.git
 cd product_catalog_app
 
 2️⃣ Install Dependency
@@ -113,4 +111,5 @@ Flutter SDK	3.35.5 • channel stable
 Dart SDK	3.9.2
 DevTools	2.48.0
 OpenJDK Runtime Environment	21.0.6 
+
 
