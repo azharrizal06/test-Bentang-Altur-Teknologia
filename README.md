@@ -73,20 +73,23 @@ flutter_hooks (opsional)	Integrasi state yang lebih reaktif
 1️⃣ Clone Repository
 
 Unduh atau clone repository:
+```
+https://github.com/azharrizal06/test-Bentang-Altur-Teknologia.git
+```
 cd product_catalog_app
 
 2️⃣ Install Dependency
 
 Jalankan perintah berikut:
-
+```
 flutter pub get
-
+```
 3️⃣ Jalankan Aplikasi
 
 Pastikan emulator atau perangkat fisik sudah terhubung, kemudian:
-
+```
 flutter run
-
+```
 🎨 Desain & UI
 
 Desain menggunakan Material 3 dengan tampilan modern dan responsif.
@@ -111,6 +114,7 @@ Flutter SDK	3.35.5 • channel stable
 Dart SDK	3.9.2
 DevTools	2.48.0
 OpenJDK Runtime Environment	21.0.6 
+
 
 
 
