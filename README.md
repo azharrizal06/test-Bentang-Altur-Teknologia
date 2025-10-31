@@ -35,7 +35,7 @@ Infinite Scroll: Produk dimuat otomatis saat pengguna mencapai bagian bawah daft
 
 Add to Cart: Tambah dan hapus produk dari keranjang.
 
-Local Storage (Hive): Menyimpan data keranjang secara lokal agar tetap ada setelah aplikasi ditutup.
+Local Storage : Menyimpan data keranjang secara lokal agar tetap ada setelah aplikasi ditutup.
 
 Clean Architecture: Pemisahan kode menjadi beberapa layer untuk menjaga skalabilitas dan keteraturan proyek.
 
@@ -111,5 +111,6 @@ Flutter SDK	3.35.5 • channel stable
 Dart SDK	3.9.2
 DevTools	2.48.0
 OpenJDK Runtime Environment	21.0.6 
+
 
 
